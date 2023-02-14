@@ -1,11 +1,8 @@
 pandas
 numpy
 yfinance
-sklearn.ensemble
-sklearn.metrics
-sklearn.model_selection
+sklearn
 streamlit
 datetime
-plotly.graph_objects
-sklearn.tree
-plotly.express
+plotly
+
