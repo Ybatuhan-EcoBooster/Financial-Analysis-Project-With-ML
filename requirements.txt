@@ -1,12 +1,11 @@
 pandas
 numpy
 yfinance
-RandomForestClassifier
-mean_squared_error, r2_score
-train_test_split
+sklearn.ensemble
+sklearn.metrics
+sklearn.model_selection
 streamlit
 datetime
-plotly
-DecisionTreeRegressor
-export_text
-precision_score
+plotly.graph_objects
+sklearn.tree
+plotly.express
