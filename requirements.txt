@@ -6,3 +6,10 @@ datapackage
 plotly
 sklearn
 numpy
+RandomForestClassifier
+mean_squared_error
+r2_score
+train_test_split
+DecisionTreeRegressor
+ export_text
+ precision_score
